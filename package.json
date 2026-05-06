@@ -30,5 +30,6 @@
     "typescript": "^6.0.2",
     "vue-tsc": "^3.2.6"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@10.33.0",
+  "deploy": "nuxt build --preset github_pages && gh-pages -d .output/public"
 }
