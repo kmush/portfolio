@@ -1,0 +1,27 @@
+title: About Me
+description: Polyglot, lingophile, programmer
+content: |
+  Hi, I'm **Keith Mushonga**, a polyglot who speaks eleven languages: Shona, English, French, German, Chinese, Spanish, Vietnamese, Portuguese, Japanese, Russian, and Arabic.
+  I can program in Python, JavaScript, and Dart. I love learning languages and developing my own custom software for fun langauge learning. I have lived and worked on three
+  continents. Recently, I've worked in Automotive and Software sectors in China. 
+
+  I'm interested in working in environments where I leverage my intercultural skills and technical skills. This 
+
+  ### My Philosophy
+
+  The world
+
+  ### What Drives Me
+
+  I'm driven by 
+
+  ### Beyond the Screen
+
+  When I'm not learning languages or coding, I love to travel. Recently, I have travelled to Inner Mongolia, China.
+
+  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+images:
+  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: My coffee workspace
+  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: My trip to Tokyo
