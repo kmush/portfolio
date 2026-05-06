@@ -5,10 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch: # Allows manual triggering of the workflow
 
-  permissions:
-    contents: read # Required to read the repository contents
-    pages: write # Required to publish to GitHub Pages
-    id-token: write # Required for authentication with GitHub Pages
+permissions:
+  contents: read # Required to read the repository contents
+  pages: write # Required to publish to GitHub Pages
+  id-token: write # Required for authentication with GitHub Pages
 
 jobs:
   build:
