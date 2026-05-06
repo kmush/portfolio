@@ -1,10 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: false,
-  //Important for GitHub Pages (project site, not user site)
-  app: {
-    baseURL: '/portfolio/'
-  },
   modules: [
     '@nuxt/eslint',
     '@nuxt/image',
@@ -14,17 +9,20 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'motion-v/nuxt'
   ],
+  ssr: false,
 
   devtools: {
     enabled: true
   },
-
+  app: {
+    baseURL: '/portfolio/'
+  },
   css: ['~/assets/css/main.css'],
 
   compatibilityDate: '2024-11-01',
 
   nitro: {
-    preset:'github-pages',
+    preset: 'github-pages',
     prerender: {
       routes: [
         '/'
