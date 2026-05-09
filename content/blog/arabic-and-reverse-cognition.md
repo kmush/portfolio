@@ -29,10 +29,12 @@ Think about it this way. As you read these words, your eyes are moving from left
 
 Checkout the word below
 
-> "انا"
+> انا
 
 It is read 'Ana' which means 'I'. It is made up of the following three letters:
->ا ن ا
+
+> ا ن ا
+
 And if the letters look nothing like the endless string above, don't worry, you're not alone. That is the curse of the cursive. While other languages like English can easily be written and read as seperate letters, Arabic is primarily a cursive writing. This means, on top of learning individual characters, you must learn what they look like at the beginning, middle and end of a word. And as beginner every new words is an exercise at reverse engineering; breaking the word into parts in your head trying to figure out which letter is which, is based on its position. And when your head is burning then comes the Eureka moment! But don't worry, that is cognitive workout that creates new neural networks, building a robust ammo of muscle memory. Before you know it, your eyes are flowing right to left, automatically deciphering and endless string of text. After all, everything is tied together in one big knot and your brain's job is to untie the knot.
 
 
