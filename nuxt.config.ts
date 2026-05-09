@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     'nuxt-og-image',
     'motion-v/nuxt'
   ],
-  ssr: false,
+  ssr: true,
 
   devtools: {
     enabled: true
