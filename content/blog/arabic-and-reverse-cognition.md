@@ -23,8 +23,6 @@ I'm right-hand, but when I initially started learning Arabic writing, I realized
 
 Think about it this way. As you read these words, your eyes are moving from left to right, building a sequence of words in your brain, string them together, decoding them, and making sense of them.  This means, your perception of direction, time and meaning moves from left to right. Left, right, left right. But when reading Arabic, it's the exact opposite. Right, left, right left. Time moves from right to left! It's pretty easy to understand Einstein's view of relativity, if you know what I mean🙃. Suddenly time starts moving from right to left.
 
-> "I care about the environment, but I have no idea if using a paper bag is actually better than plastic, or if my reusable water bottle makes any difference." — Interview participant
-
 ### String theory: the curse of the cursive
 
 Checkout the word below
