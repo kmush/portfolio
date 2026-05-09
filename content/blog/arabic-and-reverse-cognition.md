@@ -42,7 +42,7 @@ So you might be wondering, why should I learn Arabic? I'm not going to tell you 
 
 1. Rewiring of the brain
 2. Improved attention
-3. Super Flexf
+3. Super Flex
 
 
 ## Conclusion
