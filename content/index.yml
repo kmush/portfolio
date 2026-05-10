@@ -54,7 +54,7 @@ experience:
       date: "2021.08 - 2022.03"
       company:
         name: Shop Cider
-        logo: /hero/cider.jpg
+        logo: "i-simple-icons-shopcider"
         url: "https://www.shopcider.com/"
         color: "#5E6AD2"
 testimonials:
@@ -90,7 +90,7 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
+            I offer services related to language learning and international business, including language tutoring, cultural consulting, and product procurement.
         - label: What is your design process like?
           content: |
             My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.

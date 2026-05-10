@@ -5,6 +5,21 @@ export default defineAppConfig({
       light: '/hero/me.jpg',
       alt: 'My profile picture'
     },
+    audi: {
+      dark: '/hero/audi.jpg',
+      light: '/hero/audi.jpg',
+      alt: 'My profile picture'
+    },
+    neue_klasse: {
+      dark: '/hero/neue-klasse.jpg',
+      light: '/hero/neue-klasse.jpg',
+      alt: 'My profile picture'
+    },
+    mini: {
+      dark: '/hero/mini.jpg',
+      light: '/hero/mini.jpg',
+      alt: 'My profile picture'
+    },
     meetingLink: 'https://cal.com/',
     email: 'keithmushonga@gmail.com',
     available: true
