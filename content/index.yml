@@ -63,21 +63,21 @@ testimonials:
       name: 'Jean-Jacques Rousseau'
       description: 'Du Contrat Social, 1762'
       avatar:
-        src: '/portfolio/hero/rousseau.jpg'
+        src: '/hero/rousseau.jpg'
         srcset: '/portfolio/hero/rousseau.jpg'
   - quote: "己所不欲，勿施于人。"
     author:
       name: 'Confucius'
       description: 'Analects, 5th century BC'
       avatar:
-        src: '/portfolio/hero/confucius.jpg'
+        src: '/hero/confucius.jpg'
         srcset: '/portfolio/hero/confucius.jpg'
   - quote: "No se puede encontrar a quien no quiere ser encontrado."
     author:
       name: 'Isabel Allende'
       description: 'La casa de los espíritus, 1982'
       avatar:
-        src: '/portfolio/hero/allende.jpg'
+        src: '/hero/allende.jpg'
         srcset: '/portfolio/hero/allende.jpg'
 blog:
   title: "Latest Articles"

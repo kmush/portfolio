@@ -23,6 +23,9 @@ export default defineNuxtConfig({
 
   nitro: {
     preset: 'github-pages',
+    publicAssets: [
+      { dir: './public', maxAge: 0 }
+    ],
     prerender: {
       routes: [
         '/'
