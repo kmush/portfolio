@@ -17,6 +17,7 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/portfolio/'
   },
+
   css: ['~/assets/css/main.css'],
 
   compatibilityDate: '2024-11-01',
@@ -41,5 +42,11 @@ export default defineNuxtConfig({
         braceStyle: '1tbs'
       }
     }
+  },
+
+  image: {
+    provider: 'ipx',
+    dir: 'public',
+    quality: 80
   }
 })
