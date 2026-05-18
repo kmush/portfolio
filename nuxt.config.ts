@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     'motion-v/nuxt',
     '@nuxtjs/i18n'
   ],
-  ssr: false,
+  ssr: true,
 
   devtools: {
     enabled: true
