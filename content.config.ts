@@ -85,6 +85,14 @@ export default defineContentConfig({
         date: z.date()
       })
     }),
+    project_detail: defineCollection({
+      type: 'page',
+      source: 'project_detail/*.yml',
+      schema: z.object({
+        title: z.string().nonempty(),
+        description: z.string().nonempty()
+      })
+    }),
     blog: defineCollection({
       type: 'page',
       source: 'blog/*.md',

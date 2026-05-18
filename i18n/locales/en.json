@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "home": "Start",
+        "projects": "Project",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "hero":{
+        "title": "Flutter & AI dev",
+        "subtitle": "AI ..."
+    },
+    "chancenkarte": "Offen fur Jobs in Deutshland (Chancenkarte)"
+}

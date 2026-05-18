@@ -5,6 +5,7 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "dev:debug": "nuxt dev --inspect",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
@@ -18,9 +19,14 @@
     "@nuxt/content": "^3.12.0",
     "@nuxt/image": "^2.0.0",
     "@nuxt/ui": "^4.6.1",
+    "@nuxtjs/i18n": "10.3.0",
     "@vueuse/nuxt": "^14.2.1",
+    "add": "^2.0.6",
     "better-sqlite3": "^12.9.0",
+    "i18n": "^0.15.3",
+    "module": "^2.0.0",
     "motion-v": "^2.2.1",
+    "nuxi": "^3.35.1",
     "nuxt": "^4.4.2",
     "nuxt-og-image": "^5.1.13",
     "tailwindcss": "^4.2.2"

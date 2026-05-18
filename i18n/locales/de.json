@@ -1,0 +1,13 @@
+{
+    "nav": {
+        "home": "Start",
+        "projects": "Projekte",
+        "about": "Uber mich",
+        "contact": "Kontakt"
+    },
+    "hero":{
+        "title": "Flutter & KI Entwickler",
+        "subtitle": "Die Zukunft bauen, App fur App"
+    },
+    "chancenkarte": "Offen fur Jobs in Deutshland (Chancenkarte)"
+}

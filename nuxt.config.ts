@@ -7,7 +7,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
     'nuxt-og-image',
-    'motion-v/nuxt'
+    'motion-v/nuxt',
+    '@nuxtjs/i18n'
   ],
   ssr: true,
 
@@ -19,6 +20,11 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
+
+  sourcemap: {
+    server: true,
+    client: true
+  },
 
   compatibilityDate: '2024-11-01',
 
@@ -44,9 +50,25 @@ export default defineNuxtConfig({
     }
   },
 
+  i18n: {
+    locales: [
+      { code: 'en', iso: 'en-US', name: 'English', file: 'en.json' },
+      { code: 'de', iso: 'de-DE', name: 'Deutsh', file: 'de.json' }
+    ],
+    defaultLocale: 'en',
+    strategy: 'prefix_except_default', // recommended: /de/about, but /about for English
+    langDir: './locales/', // where your translation files will live
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root'
+    }
+  },
+
   image: {
     provider: 'ipx',
     dir: 'public',
     quality: 80
   }
+
 })
